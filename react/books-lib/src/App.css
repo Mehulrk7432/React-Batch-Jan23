@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+}
+
+.app {
+  background-color: whitesmoke;
+}
+
+.app_body {
+  display: flex;
+}
